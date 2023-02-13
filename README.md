@@ -1,4 +1,4 @@
-# Refactorign Legacy C++ into Modern C++11 Example
+# Refactoring Legacy C++ into Modern C++11 Example
 
 This code is for a simple console app that stores and retrieves messages in memory.
 
